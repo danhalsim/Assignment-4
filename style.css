@@ -22,6 +22,8 @@ body {
 
 #answers li {
     margin: 10px 0;
+    color: blue;
+    cursor: pointer;
 }
 
 #timer {
