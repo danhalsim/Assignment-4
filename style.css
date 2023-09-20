@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hidden {
+    display: none;
+}
+
+#quiz-container, #score-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#question-container {
+    text-align: center;
+}
+
+#answers {
+    list-style-type: none;
+    padding: 0;
+}
+
+#answers li {
+    margin: 10px 0;
+}
+
+#timer {
+    margin-top: 20px;
+}
+
+#game-over {
+    text-align: center;
+    margin-top: 50px;
+}
+
