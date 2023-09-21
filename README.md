@@ -14,7 +14,7 @@ Working on this project helped me learn how to create a website that is responsi
 
 Browse the website and repository as desired.
 
-Link: 
+Link: https://danhalsim.github.io/Assignment-4/
 
 Home page
 ![website screenshot](assets\screenshot-home.png)
@@ -28,10 +28,16 @@ End of the quiz
 ## Credits
 
 Tutorials:
+
 AskBCS tutors for their help
 
 Storing Objects with Local Storage in JavaScript
+
 https://www.youtube.com/watch?v=AUOzvFzdIk4
+
+Local Storage Explained In 10 min | Javascript
+
+https://www.youtube.com/watch?v=fYTTUBa-lPc
 
 Help from a friend with formatting JavaScript code lines 151-158
 
