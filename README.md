@@ -16,13 +16,24 @@ Browse the website and repository as desired.
 
 Link: 
 
-Website screenshot:
-![website screenshot]()
+Home page
+![website screenshot](assets\screenshot-home.png)
+
+Question and answer choices
+![website screenshot](assets\screenshot-question.png)
+
+End of the quiz
+![website screenshot](assets\screenshot-end.png)
 
 ## Credits
 
 Tutorials:
+AskBCS tutors for their help
 
+Storing Objects with Local Storage in JavaScript
+https://www.youtube.com/watch?v=AUOzvFzdIk4
+
+Help from a friend with formatting JavaScript code lines 151-158
 
 ## License
 
